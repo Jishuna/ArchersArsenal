@@ -1,0 +1,17 @@
+# Enable or disable this arrow.
+enabled: true
+
+# Display name, used for the inventory item.
+display-name: "<#f542e9>Firework</#f542e9> &fArrow"
+
+# Lore for the inventory item.
+lore:
+  - '&7Unaffected by gravity.'
+  - "&8&o'Cause, baby, you're a firework"
+
+# The color of the arrows tip, in the format R,G,B.
+arrow-color: 245,66,233
+
+crafting:
+  catalyst: FIREWORK_STAR
+  arrow-count: 8

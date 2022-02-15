@@ -1,0 +1,20 @@
+name: ArchersArsenal
+version: @version@
+main: me.jishuna.archersarsenal.ArchersArsenal
+authors: [Jishuna]
+api-version: 1.17
+
+commands:
+  archersarsenal:
+    description: 'Base plugin command'
+    aliases: [archa]
+permissions:
+  archersarsenal.command:
+    default: true
+  archersarsenal.command.info:
+    default: true
+  archersarsenal.command.reload:
+    default: op
+  archersarsenal.command.give:
+    default: op
+    

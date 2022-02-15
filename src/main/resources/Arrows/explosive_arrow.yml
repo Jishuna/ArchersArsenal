@@ -1,0 +1,23 @@
+# Enable or disable this arrow.
+enabled: true
+
+# Display name, used for the inventory item.
+display-name: "<#ff0000>Explosive</#ff0000> &fArrow"
+
+# Lore for the inventory item.
+lore:
+  - '&7Creates an explosion on impact.'
+  - "&8&oYou'll have a blast"
+
+# The color of the arrows tip, in the format R,G,B.
+arrow-color: 255,0,0
+
+# The power of the explosion
+explosion-power: 2.0
+
+compatibility:
+  infinity: false
+
+crafting:
+  catalyst: TNT
+  arrow-count: 8

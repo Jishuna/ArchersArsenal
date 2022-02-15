@@ -1,0 +1,20 @@
+# Enable or disable this arrow.
+enabled: true
+
+# Display name, used for the inventory item.
+display-name: "<#61006e>Homing</#61006e> &fArrow"
+
+# Lore for the inventory item.
+lore:
+  - '&7Homes in on targets.'
+  - "&8&oParry this you filthy casual"
+
+# The color of the arrows tip, in the format R,G,B.
+arrow-color: 97,0,110
+
+# The radius (in blocks) for this arrow to home in on entities.
+homing-radius: 2.5
+
+crafting:
+  catalyst: CHORUS_FRUIT
+  arrow-count: 4
