@@ -1,0 +1,17 @@
+# Enable or disable this arrow.
+enabled: true
+
+# Display name, used for the inventory item.
+display-name: "<#248375>Ender</#248375> &fArrow"
+
+# Lore for the inventory item.
+lore:
+  - '&7Teleports you to the impact location.'
+  - "&8&oVwoop"
+
+# The color of the arrows tip, in the format R,G,B.
+arrow-color: 36,131,117
+
+crafting:
+  catalyst: ENDER_PEARL
+  arrow-count: 4
